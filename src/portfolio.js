@@ -20,7 +20,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Web Developer 🚀 with 1.5 years of experience building robust web applications using MERN Stack, Django, PostgreSQL, and modern UI frameworks like MUI, Bootstrap, and Tailwind."
   ),
-  resumeLink: "https://drive.google.com/file/d/15t7tP3P1dN2AyCpUesG1WmN3VtHe3Kxs/view?usp=sharing", // Add your resume link here
+  resumeLink: "https://drive.google.com/file/d/1I1b3ZkW-CJ-JQfZIuwn18QkT1hASQSXv/view?usp=sharing", // Add your resume link here
   displayGreeting: true
 };
 
